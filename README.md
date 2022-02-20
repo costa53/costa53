@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=costa53&label=PROFILE+VIEWS&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=costa53&label=PROFILE+VIEWS&color=a99a86)
 
 ### :vulcan_salute: My GitHub Stats:
 
