@@ -24,7 +24,7 @@
 ### Languages:
 ![html5-ico](https://user-images.githubusercontent.com/99206239/168097789-8415e568-5a5b-43ca-8301-b17deb139fb3.png)
 ![css3-ico](https://user-images.githubusercontent.com/99206239/168097785-646a966b-8f15-481b-bb2a-2ff7b62a6158.png)
-![js-ico](https://user-images.githubusercontent.com/99206239/168097792-d6a02660-36c8-4fa1-a5bf-71b95594711f.png)]
+![js-ico](https://user-images.githubusercontent.com/99206239/168097792-d6a02660-36c8-4fa1-a5bf-71b95594711f.png)
 ![python-ico](https://user-images.githubusercontent.com/99206239/168097800-688c9481-9557-489b-abfb-256d655c73b4.png)
 ![markdown-ico](https://user-images.githubusercontent.com/99206239/168097795-5b788820-635b-419c-98aa-09ef1788efbf.png)
 
