@@ -32,7 +32,7 @@
 ***
 <div align="center">
   <a href="https://github.com/costa53">
-    <img src="https://github-readme-stats.vercel.app/api?username=costa53&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" width="400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costa53&theme=nightowl&layout=compact&langs_count=6" width="395"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=costa53&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costa53&theme=nightowl&layout=compact&langs_count=6" height="170"/>
   </a>
 </div>
