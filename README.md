@@ -5,8 +5,8 @@
 #### I'm a web developer with 2+ years of experience
 
 - :computer: I'm currently working on **personal projects**
-- :open_book: I'm currently learning **Vue**
-- :speech_balloon: Ask me about **React, JavaScript, CSS**
+- :open_book: I'm currently learning **SQL**
+- :speech_balloon: Ask me about **Python, C/C++, JavaScript**
 - :mailbox: How to reach me: **neoact@ymail.com**
 - :zap: Fun fact: I love to play and watch tennis!
 
@@ -23,6 +23,7 @@
 [![node-ico](https://user-images.githubusercontent.com/99206239/168097797-5d4470f3-89e2-478a-9dc4-646bb3ee8416.png)](https://nodejs.org/)
 ### Languages:
 [![python-ico](https://user-images.githubusercontent.com/99206239/168097800-688c9481-9557-489b-abfb-256d655c73b4.png)](https://www.python.org/)
+![c-ico](https://user-images.githubusercontent.com/99206239/179302447-04d307a8-76ef-446c-aafa-e40e274218f4.png)
 ![c++-ico](https://user-images.githubusercontent.com/99206239/178036246-f365f83d-5dc4-488e-b825-04374e796bec.png)
 [![html5-ico](https://user-images.githubusercontent.com/99206239/168097789-8415e568-5a5b-43ca-8301-b17deb139fb3.png)](https://developer.mozilla.org/docs/Web/HTML)
 [![css3-ico](https://user-images.githubusercontent.com/99206239/168097785-646a966b-8f15-481b-bb2a-2ff7b62a6158.png)](https://developer.mozilla.org/docs/Web/CSS)
