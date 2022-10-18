@@ -21,6 +21,8 @@
 [![bootstrap-ico](https://user-images.githubusercontent.com/99206239/168097778-0deff9a1-6523-4eac-a011-1e68d9114980.png)](https://getbootstrap.com/)
 [![react-ico](https://user-images.githubusercontent.com/99206239/168097804-11e151bd-dd0c-433e-a499-0892c2065fa3.png)](https://reactjs.org/)
 [![node-ico](https://user-images.githubusercontent.com/99206239/168097797-5d4470f3-89e2-478a-9dc4-646bb3ee8416.png)](https://nodejs.org/)
+![sqlite-ico](https://user-images.githubusercontent.com/99206239/196463557-b1fa87ec-41c9-44dd-846a-725fa11f98cd.png)
+![flask-ico](https://user-images.githubusercontent.com/99206239/196463577-06390da9-a8ef-4358-826d-548e4ba5ffee.png)
 ### Languages:
 [![python-ico](https://user-images.githubusercontent.com/99206239/168097800-688c9481-9557-489b-abfb-256d655c73b4.png)](https://www.python.org/)
 ![c-ico](https://user-images.githubusercontent.com/99206239/179302447-04d307a8-76ef-446c-aafa-e40e274218f4.png)
